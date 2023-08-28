@@ -907,7 +907,7 @@
 		"Id": "uWIpdGU1HbQ",
 		"Published": "5/29/2023 3:00 PM",
 		"Title": "STAR WARS EPISODE VII: THE FORCE AWAKENS | FIRST TIME WATCHING | MOVIE REACTION",
-		"Movie": "Star Wars: Episode VII: The Force Awakens",
+		"Movie": "Star Wars Episode VII: The Force Awakens",
 		"Year": 2015,
 		"Franchise": "Star Wars"
 	},
@@ -1102,5 +1102,13 @@
 		"Movie": "The Mask",
 		"Year": 1994,
 		"Franchise": ""
+	},
+	{
+		"Id": "MymMhLQKFGI",
+		"Published": "8/25/2023 3:00 PM",
+		"Title": "STAR WARS: THE RISE OF SKYWALKER | FIRST TIME WATCHING | MOVIE REACTION",
+		"Movie": "Star Wars Episode IX: The Rise of Skywalker",
+		"Year": 2019,
+		"Franchise": "Star Wars"
 	}
 ]
