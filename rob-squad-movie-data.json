@@ -1181,7 +1181,7 @@
 		"Title": "GROOVY BABY! | AUSTIN POWERS (1997) | FIRST TIME WATCHING | MOVIE REACTION",
 		"Movie": "Austin Powers",
 		"Year": 1997,
-		"Franchise": ""
+		"Franchise": "Austin Powers"
 	},
 	{
 		"Id": "8sczq7JIjJA",
@@ -1198,5 +1198,13 @@
 		"Movie": "I Am Legend",
 		"Year": 2007,
 		"Franchise": ""
+	},
+	{
+		"Id": "cMDj-ENYAhc",
+		"Published": "10/06/2023 3:00 PM",
+		"Title": "Austin Powers: The Spy Who Shagged Me (1999) | First Time Watching | Movie Reaction",
+		"Movie": "Austin Powers: The Spy Who Shagged Me",
+		"Year": 1999,
+		"Franchise": "Austin Powers"
 	}
 ]
